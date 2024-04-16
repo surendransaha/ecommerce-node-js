@@ -14,7 +14,7 @@
         }
 
 
-![Auth - login](https://github.com/surendransaha/ecommerce-node-js/assets/71213725/8c96a3aa-3969-4e8d-9591-0c2d7e50fb85)
+![Auth - register](https://github.com/surendransaha/ecommerce-node-js/assets/71213725/33f410f8-27e7-4545-b9aa-6dda7dad47f3)
 
 
 
@@ -27,8 +27,8 @@
         "password" : "Raj@123"
         }
 
+![Auth - login](https://github.com/surendransaha/ecommerce-node-js/assets/71213725/8c96a3aa-3969-4e8d-9591-0c2d7e50fb85)
 
-![Auth - register](https://github.com/surendransaha/ecommerce-node-js/assets/71213725/33f410f8-27e7-4545-b9aa-6dda7dad47f3)
 
 
 ------------------------------------------------------------------------------------------------------------------------
