@@ -6,7 +6,7 @@ npm start
 
 # Api Details
 
-// Auth: Register
+# Auth: Register
 api : http://localhost:3000/api/v1/auth/register
 method : POST
 {
@@ -18,7 +18,7 @@ method : POST
 ![Auth - login](https://github.com/surendransaha/ecommerce-node-js/assets/71213725/8c96a3aa-3969-4e8d-9591-0c2d7e50fb85)
 
 
-// Auth: Login
+# Auth: Login
 method : POST
 api : http://localhost:3000/api/v1/auth/login
 {
