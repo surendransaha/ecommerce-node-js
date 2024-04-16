@@ -1,6 +1,6 @@
 # Application Run Steps
-npm i
-npm start
+1) npm i
+2) npm start
 
 # Api Details
 
