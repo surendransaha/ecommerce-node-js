@@ -15,6 +15,9 @@ method : POST
     "password" : "Raj@123"
 }
 
+![Auth - login](https://github.com/surendransaha/ecommerce-node-js/assets/71213725/8c96a3aa-3969-4e8d-9591-0c2d7e50fb85)
+
+
 // Auth: Login
 method : POST
 api : http://localhost:3000/api/v1/auth/login
@@ -23,7 +26,10 @@ api : http://localhost:3000/api/v1/auth/login
     "password" : "Raj@123"
 }
 
-----------------------------------------------------------------------------
+![Auth - register](https://github.com/surendransaha/ecommerce-node-js/assets/71213725/33f410f8-27e7-4545-b9aa-6dda7dad47f3)
+
+
+------------------------------------------------------------------------------------------------------------------------
 
 //User : Get All
 api: http://localhost:3000/api/v1/users
